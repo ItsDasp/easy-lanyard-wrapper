@@ -1,13 +1,13 @@
 # Lanyard Wrapper
 
-![npm (version)](https://img.shields.io/npm/v/lanyard-wrapper.svg)
-![GitHub Workflow Status](https://github.com/itsdasp/lanyard-wrapper/actions/workflows/ci.yml/badge.svg)
+![npm (version)](https://img.shields.io/npm/v/easy-lanyard-wrapper.svg)
+![GitHub Workflow Status](https://github.com/itsdasp/easy-lanyard-wrapper/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Lanyard Wrapper
+Easy Lanyard Wrapper
 ================
 
-Lanyard Wrapper is a compact TypeScript SDK for interacting with the Lanyard Discord presence API. It bundles a minimal HTTP client, an optional cache layer (in-memory by default), and a small ergonomic wrapper API that supports field projection and basic metrics.
+Easy Lanyard Wrapper is a compact TypeScript SDK for interacting with the Lanyard Discord presence API. It bundles a minimal HTTP client, an optional cache layer (in-memory by default), and a small ergonomic wrapper API that supports field projection and basic metrics.
 
 Key features
 - Lightweight HTTP client with optional `Authorization` header support for API keys.

@@ -1,5 +1,5 @@
 {
-  "name": "lanyard-wrapper",
+  "name": "easy-lanyard-wrapper",
   "version": "0.1.0",
   "description": "A small TypeScript wrapper for the Lanyard Discord presence API",
   "author": "Dasp <daspx@proton.me>",
