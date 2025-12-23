@@ -72,6 +72,8 @@ Publishing and repository
 
 This project is prepared for npm publishing. Before publishing, ensure you have built the project (`npm run build`), and that `package.json` contains the correct `name`, `version`, `author`, and `repository` fields.
 
+But if you're going to post what we already have, please refrain from doing so; if the changes are minimal, it's better to make a pull request.
+
 License
 
 This project is licensed under MIT. See the `LICENSE` file for details.
